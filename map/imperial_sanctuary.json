@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Restore",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TXw2pLIyKeOYCBhIkHKClr64s2eKFCrZbQ&usqp=CAU",
+    "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20backup%20low.zip",
+    "graphics": "low"
+  },
+  {
+    "title": "Night Mode V1",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20NightMode.jpg",
+    "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20low.zip",
+    "graphics": "low"
+  },
+  {
+    "title": "Restore",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TXw2pLIyKeOYCBhIkHKClr64s2eKFCrZbQ&usqp=CAU",
+    "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20backup%20high.zip",
+    "graphics": "high"
+  },
+  {
+    "title": "Old Map",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20Old%20Map.jpg",
+    "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Old%20Map%20High%20Imperial.zip",
+    "graphics": "high"
+  },
+  {
+    "title": "Night Mode V1",
+    "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20NightMode.jpg",
+    "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20high.zip",
+    "graphics": "high"
+  },
+  {
+  "title":"Highway Map",
+  "image":"https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Highway%20High%20Imperial.jpg",
+  "script":"https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Highway%20High%20Imperial.zip",
+  "graphics":"high"
+  },
+  {
+  "title":"2016 Season 1",
+  "image":"https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250126_013314.jpg",
+  "script":"https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMPERIAL%20MAP%20HIGH%20OLD%20SEASON%201.zip",
+  "graphics":"high"
+  }
+]
